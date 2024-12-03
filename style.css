@@ -1,0 +1,25 @@
+
+body
+{
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbnFrWnJo1rRQn6b4rxjjOpn1QXC51xHFsug&usqp=CAU");
+}
+
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px crimson;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
